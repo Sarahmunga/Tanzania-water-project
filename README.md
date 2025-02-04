@@ -55,12 +55,6 @@ Finding Binary Model: To make our ternary target modeling easily, first we simpl
  - [sklearn_documentation](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
  - [Data science process lesson](https://github.com/learn-co-curriculum/dsc-data-science-processes)
 
-
-## Authors
-
-- [waitipeter](https://github.com/waitipeter)
-
-
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
